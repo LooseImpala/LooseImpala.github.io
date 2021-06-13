@@ -22,4 +22,4 @@ weight = 2
 
 [params]
 
-  colortheme = "black" # dark, light, white, or classic
+  colortheme = "dark" # dark, light, white, or classic
