@@ -22,4 +22,5 @@ weight = 2
 
 [params]
 
-  colortheme = "dark" # dark, light, white, or classic
+  css = ["css/cactus.css"]
+  colortheme = "light" # dark, light, white, or classic
